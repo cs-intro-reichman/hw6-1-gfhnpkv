@@ -4,7 +4,7 @@ import java.awt.Color;
  * The program recieves two command-line arguments: a string representing the name
  * of the PPM file image and the number of morphing steps (an int). 
  * For example, to morph the cake into grayscale cake in 50 steps, use:
- * java Editor3 cake.ppm 50
+ * java Editor4 cake.ppm 50
  * Note: There is no need to scale the target image to the size of the source
  * image, since Runigram.morph performs this action.
  */
